@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/victor/OneDrive/Thesis/animations/my-first-project/media/videos/scene/1080p60/partial_movie_files/HelloWorld/2725839182_2987196756_223132457.mp4'
-file 'file:/home/victor/OneDrive/Thesis/animations/my-first-project/media/videos/scene/1080p60/partial_movie_files/HelloWorld/884983012_2872842549_3376585021.mp4'
-file 'file:/home/victor/OneDrive/Thesis/animations/my-first-project/media/videos/scene/1080p60/partial_movie_files/HelloWorld/884983012_4044222437_726209141.mp4'
