@@ -32,3 +32,11 @@ class Pith(Scene):
         self.play(Create(sq), running_start=3)
 
         self.wait()
+
+
+
+class Positionning(Scene):
+    def construct(self):
+        plane = NumberPlane()
+        self.add(plane)
+        
